@@ -11,5 +11,10 @@
     "url": "tunliz"
   },
   "author": "Tunlinzsxn",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "app": "^0.1.0",
+    "create": "^0.0.2",
+    "react": "^18.2.0"
+  }
 }
